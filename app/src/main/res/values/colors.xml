@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <color name="SobrePrimero">#FF202124</color>
+    <color name="SobreSegundo">#FF202124</color>
     <color name="Primero">#FFADCBFA</color>
+    <color name="VariantePrimero">#FF6694DE</color>
     <color name="Segundo">#FFFCE293</color>
     <color name="VarienteSegundo">#FFFDD663</color>
+    <color name="SobreSuperficie">#FFFFFFFF</color>
+    <color name="VarianteSobreSuperficie">#FFDADCE0</color>
+    <color name="SobreFondo">#FFFFFFFF</color>
+    <color name="SobreError">#FF000000</color>
     <color name="Superficie">#FF202124</color>
+    <color name="Fondo">#FF000000</color>
+    <color name="Error">#FFEE675C</color>
 </resources>
